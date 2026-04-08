@@ -36,7 +36,7 @@ def load_data():
             
         conn.close()
 
-# --- CÁC HÀM XỬ LÝ NÚT BẤM (Sẽ code tiếp phần này sau) ---
+# --- CÁC HÀM XỬ LÝ NÚT BẤM 
 def them_sp():
     messagebox.showinfo("Thông báo", "Chức năng Thêm đang đợi bạn code lệnh INSERT!")
 
