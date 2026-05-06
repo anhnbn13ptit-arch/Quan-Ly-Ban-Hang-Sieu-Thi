@@ -112,7 +112,7 @@ tree.column("Số lượng", width=80, anchor="center")
 tree.pack()
 
 # --- KHỞI ĐỘNG ---
-# Đảm bảo XAMPP đang chạy trước khi gọi hàm này!
+
 load_data()
 
 root.mainloop()
